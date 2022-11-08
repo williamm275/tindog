@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   text-align: center;
 }
 
@@ -27,7 +27,7 @@ p {
 
 /* Headings */
 .big-heading {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 3.5rem;
   font-weight: 900;
   line-height: 1.5;
@@ -38,8 +38,13 @@ p {
   line-height: 1.5;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Montserrat';
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat";
   font-weight: 900;
 }
 
@@ -49,7 +54,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-brand {
-  font-family: 'Ubuntu';
+  font-family: "Ubuntu";
   font-size: 3rem;
   padding-top: 35px;
   padding-bottom: 50px;
@@ -60,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-link {
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   font-size: 1.2rem;
   font-weight: lighter;
 }
