@@ -1,3 +1,9 @@
-# tindog
+# Tindog - Landing Page
 
-A tinder styled site for dogs!
+## Objective
+Create an entire webpage. A tinder styled webpage for dogs.
+
+## Tools Used:
+- HTML
+- CSS
+- Bootstrap
